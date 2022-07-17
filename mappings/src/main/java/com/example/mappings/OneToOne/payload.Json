@@ -1,0 +1,8 @@
+{
+  "name" : "ranveer",
+  "age" : "30",
+  "wife" : {
+    "name" : "deepika",
+    "age" : "28"
+  }
+}
